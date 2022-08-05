@@ -1,2 +1,1 @@
-# Store
-Fullstack react application (Develop Stage)
+# Fullstack react application
