@@ -12,6 +12,8 @@ This repository implies my react course where i developed SPA application and it
 
 * Database Diagram
 ![alt text](https://github.com/dmitriyhulpe/Store/blob/main/base/Store%20Diagram.png)
+* User Login with JWT tokens
+* Rest API Online Store
 
 ## How to load script?
 
