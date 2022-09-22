@@ -2,13 +2,13 @@
 
 This repository implies my react course where i developed SPA application and it used the vast majority of react concepts.
 
-## Stack or Technologies i used
+## Stack or Technologies
 * Node JS (Platform for backend)
 * Express (Framework for backend)
 * Postgre SQL (Database management system)
 * Sequelize (ORM)
 
-## What did I do during the development?
+## Steps during the development
 
 * Database Diagram
 
