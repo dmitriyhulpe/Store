@@ -11,7 +11,7 @@ This repository implies my react course where i developed SPA application and it
 ## Steps during the development
 
 * Database Diagram
-
+![alt text](https://ibb.co/4YfT5zk)
 
 ## How to load script?
 
