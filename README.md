@@ -30,5 +30,6 @@ This repository implies my react course where i developed SPA application and it
 Download zip archive and create new react app. Put all the components inside created folder and install all dependencies from **package.json** file.
 
 ## Tasks
-* Add rating for users
-* Add delete method for goods
+* Develop a rating system for users
+* Add remove method for types brand and devices
+* Develop a cart system
