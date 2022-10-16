@@ -15,15 +15,24 @@ This repository implies my react course where i developed SPA application and it
 * React Router Dom (Navigation)
 * MobX (State Managment)
 
-## Steps during the development
+## Steps During the Backend Part
 
-* Database Diagram
+* Build Database Diagram
 ![alt text](https://github.com/dmitriyhulpe/Store/blob/main/base/Store%20Diagram.png)
-* User Registration and Login with JWT tokens
 * Rest API Online Store
-* Error Handlers
 * Relations Between Database and Data
-* Admin Panel
+* Routes and Endpoints
+* Error Handlers
+* CRUD for Routes and their controllers
+* Business Logic (Filtering and Pagination)
+* User Registration and Login with JWT tokens
+* Middlewares
+
+## Steps During the Backend Part
+
+...
+...
+...
 
 ## How to load script?
 
@@ -31,5 +40,6 @@ Download zip archive and create new react app. Put all the components inside cre
 
 ## Tasks
 * Develop a rating system for users
-* Add remove method for types brand and devices
+* Add remove method for types brand and devices (Done)
 * Develop a cart system
+* Frontend revision (UI and components)
