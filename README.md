@@ -1,5 +1,4 @@
 # Fullstack React Application
-
 This repository implies my react course where i developed SPA application and it used the vast majority of react concepts.
 
 ## Backend Stack Technologies
@@ -16,7 +15,6 @@ This repository implies my react course where i developed SPA application and it
 * MobX (State Managment)
 
 ## Steps During the Backend Part
-
 * Build Database Diagram
 ![alt text](https://github.com/dmitriyhulpe/Store/blob/main/base/Store%20Diagram.png)
 * Rest API Online Store
@@ -32,18 +30,18 @@ This repository implies my react course where i developed SPA application and it
 
 ...
 
-## What can users actually do:
+## What Can Users Actually do:
+* Use registration form
+* Use login form
+* See devices
+* See types and brands
+* Add and remove devices from cart
 
-* Admin can add and remove types and brands
-* Admin can add and remove devices
-
-* User can use registration form
-* User can use login form
-* User can view product types and brands
-* User can add and remove devices from cart
+## What Can Users Actually do:
+* Add and remove types and brands
+* Add and remove devices
 
 ## Tasks to do:
-
 * Develop a rating system for users
 * Add remove method for types brand and devices (Done)
 * Develop a cart system (Done)
@@ -51,5 +49,4 @@ This repository implies my react course where i developed SPA application and it
 * Frontend revision (UI and components)
 
 ## How to load script?
-
 Download zip archive and create new react app. Put all the components inside created folder and install all dependencies from **package.json** file.
