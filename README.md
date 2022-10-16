@@ -38,7 +38,7 @@ This repository implies my react course where i developed SPA application and it
 * Add and remove devices from cart
 
 ## What Can Admin Actually do:
-* Add and remove types and brands
+* Add and remove types or brands
 * Add and remove devices
 
 ## Tasks to do:
