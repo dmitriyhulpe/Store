@@ -40,4 +40,5 @@ Download zip archive and create new react app. Put all the components inside cre
 * Develop a rating system for users
 * Add remove method for types brand and devices (Done)
 * Develop a cart system
+* Possible adding a liked products system (Similar to cart)
 * Frontend revision (UI and components)
