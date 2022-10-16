@@ -28,7 +28,7 @@ This repository implies my react course where i developed SPA application and it
 * User Registration and Login with JWT tokens
 * Middlewares
 
-## Steps During the Backend Part
+## Steps During the Frontend Part
 
 ...
 
