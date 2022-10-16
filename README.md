@@ -14,7 +14,7 @@ This repository implies my react course where i developed SPA application and it
 * React Router Dom (Navigation)
 * MobX (State Managment)
 
-## Steps During the Backend Part
+## Steps During the Backend Development
 * Build Database Diagram
 ![alt text](https://github.com/dmitriyhulpe/Store/blob/main/base/Store%20Diagram.png)
 * Rest API Online Store
@@ -26,7 +26,7 @@ This repository implies my react course where i developed SPA application and it
 * User Registration and Login with JWT tokens
 * Middlewares
 
-## Steps During the Frontend Part
+## Steps During the Frontend Development
 
 ...
 
@@ -37,7 +37,7 @@ This repository implies my react course where i developed SPA application and it
 * See types and brands
 * Add and remove devices from cart
 
-## What Can Users Actually do:
+## What Can Admin Actually do:
 * Add and remove types and brands
 * Add and remove devices
 
