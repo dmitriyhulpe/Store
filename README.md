@@ -30,23 +30,10 @@ This repository implies my react course where i developed SPA application and it
 
 ...
 
-## What Can Users Actually do:
-* Use registration form
-* Use login form
-* See devices
-* See types and brands
-* Add and remove devices from cart
-
-## What Can Admin Actually do:
-* Add and remove types or brands
-* Add and remove devices
 
 ## Tasks to do:
-* Develop a rating system for users
-* Add remove method for types brand and devices (Done)
-* Develop a cart system (Done)
-* Possible adding a liked products system (Similar to cart)
-* Frontend revision (UI and components)
+
+...
 
 ## How to load script?
 Download zip archive and create new react app. Put all the components inside created folder and install all dependencies from **package.json** file.
