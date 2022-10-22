@@ -1,4 +1,4 @@
-# PERN Stack SPA
+# PERN Stack SPA of online start
 This repository covers most of the concepts of PERN application. This is a Single Page Application of online store. Stack of used technologies is below as well as the steps to reproduce them.
 
 ## Backend Stack Technologies:
