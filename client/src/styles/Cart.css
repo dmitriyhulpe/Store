@@ -1,0 +1,13 @@
+.Cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: calc(100vh - 40px);
+}
+
+.Cart h6 {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 900;
+}

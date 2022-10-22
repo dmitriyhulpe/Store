@@ -1,0 +1,25 @@
+.Navigation {
+    background: #21262b;
+    padding: 10px 0;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.NavLink {
+    font-weight: 600;
+    color: #e5e5e5;
+    cursor: pointer;
+}
+
+.NavLink:hover {
+    color: white;
+}
+
+.Nav {
+    display: flex;
+    gap: 15px;
+}

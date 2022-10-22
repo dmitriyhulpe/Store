@@ -1,0 +1,25 @@
+.Admin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    min-height: calc(100vh - 39px);
+}
+
+.AdminButton {
+   text-align: center;
+   width: 200px;
+   cursor: pointer;
+   border: none;
+   padding: 10px;
+   background: #21262b;
+   color: #fff;
+   font-weight: bold;
+   border-radius: 5px;
+}
+
+.AdminButton:hover {
+    background: #20bdff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}

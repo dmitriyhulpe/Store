@@ -1,0 +1,13 @@
+.BrandBar {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.BrandBar li {
+    padding: 10px 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    cursor: pointer;
+}

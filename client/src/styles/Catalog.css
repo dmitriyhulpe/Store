@@ -1,0 +1,24 @@
+.CatalogWrapper {
+    display: grid;
+    margin-top: 30px;
+    gap: 30px;
+    grid-template-columns: 300px auto;
+}
+
+@media(max-width: 768px) {
+    .CatalogWrapper {
+        grid-template-columns: 200px auto;
+    }
+}
+
+@media(max-width: 576px) {
+    .CatalogWrapper {
+        grid-template-columns: auto;
+        gap: 0;
+    }
+}
+
+.CatalogColumn {
+    display: flex;
+    flex-direction: column;
+}

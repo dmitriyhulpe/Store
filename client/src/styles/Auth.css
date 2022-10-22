@@ -1,0 +1,63 @@
+.Auth {
+    max-width: 1200px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: calc(100vh - 39px);
+}
+
+.AuthForm {
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    border-radius: 5px;
+    border-top: 5px solid #20bdff;
+    padding: 20px 30px;
+}
+
+
+.AuthHeading {
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.AuthInput {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.AuthRow {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.AuthRow a {
+    color: black;
+    font-size: 14px;
+}
+
+.AuthButton {
+    margin-bottom: 15px;
+    background: #21262b;
+    color: #fff ;
+    border-radius: 5px;
+    padding: 7.5px;
+    width: 100%;
+    font-weight: bold;
+    cursor: pointer;
+}

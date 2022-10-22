@@ -1,0 +1,158 @@
+.Modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background: rgba(0, 0, 0, 0.35);
+    display: none;
+}
+
+.Modal.active {
+    display: block;
+}
+
+.ModalContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #fff;
+    transform: translate(-50%, -50%);
+    box-shadow: rgba(100, 100, 110, 0.25) 0px 5px 30px 0px;
+
+    border-radius: 5px;
+    min-width: 400px;
+}
+
+@media (max-width: 480px )
+{
+    .ModalContent
+    {
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+
+        overflow: auto;
+        border-radius: 0;
+    }
+}
+
+.ModalHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 15px;
+}
+
+.ModalHeader h4 {
+    font-weight: bold;
+}
+
+.ModalClose {
+    height: 12.5px;
+    width: 12.5px;
+    position: relative;
+    cursor: pointer;
+}
+
+.ModalClose::before,
+.ModalClose::after {
+    height: 2.25px;
+    background: #333;
+    width: 100%;
+    position: absolute;
+    border-radius: 0.75px;
+    content: "";
+    top: 50%;
+    left: 0;
+}
+
+.ModalClose::before {
+    transform: rotate(45deg);
+}
+
+.ModalClose::after {
+    transform: rotate(-45deg);
+}
+
+.ModalBody {
+    padding: 15px;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ModalRow {
+    width: 100%;
+    gap: 15px;
+    display: flex;
+}
+
+.ModalInput {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.ModalFileInput {
+    position: relative;
+}
+
+.ModalFileInput input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    font-size: 0;
+    cursor: pointer;
+    padding: 0;
+    z-index: 0;
+
+}
+
+.ModalFileButton {
+    display: block;
+    min-height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.ModalFooter {
+    padding: 15px;
+    display: flex;
+    gap: 15px;
+    padding-top: 0;
+
+}
+
+.ModalButton {
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    background: #21262b;    
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.ModalButton:hover {
+    background: #f85032;
+}
+
+.ModalCreate:hover {
+    background: #20bdff;
+}

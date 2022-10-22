@@ -1,0 +1,22 @@
+.Device {
+    display: flex;
+    margin-top: 30px;
+}
+
+.Device img {
+    margin-right: 30px;
+}
+
+.DeviceColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.DeviceName {
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+.Device ul li {
+    margin-bottom: 10px;
+}

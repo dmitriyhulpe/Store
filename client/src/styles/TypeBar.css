@@ -1,0 +1,11 @@
+.ListGroup {
+    border-radius: 5px;
+}
+
+.ListGroup li {
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+    cursor: pointer;
+}
